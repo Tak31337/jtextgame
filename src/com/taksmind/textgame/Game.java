@@ -1,4 +1,4 @@
-package info.tak11.textgame;
+package com.taksmind.textgame;
 
 /**
  * 

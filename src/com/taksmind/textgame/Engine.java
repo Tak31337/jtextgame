@@ -9,7 +9,7 @@
  *    Hippos Development Team - Java Subnetting Calculator
  *
  ******************************************************************************/
-package info.tak11.textgame;
+package com.taksmind.textgame;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionEvent;
